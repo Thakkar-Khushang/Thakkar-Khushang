@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**Thakkar-Khushang/Thakkar-Khushang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack web developer and flutter developer from India.
+I mainly code in Javascript, in 2021 I was introducted to React and I fell the instant connection. I am always learning and recently learned Flutter and worked as a freelancer under that domain. I am constantly working on projects that interest me, may it be cool animated websites or 3-D, recently learning Blender and THREE.js.
 
-Here are some ideas to get you started:
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thakkar-Khushang&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+I love exploring and learning from various experiences. I am on the constant search for projects to contribute into and learning more.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- TypeScript
+- React.js
+- HTML, CSS
+- SCSS
+- Node.js
+
+
+### Application Development
+
+- Flutter
+
+
+### Languages 🌐
+
+| Language      |
+| ------------- |
+| English       |
+| German        |
+| Czech         |
+
+</details>
