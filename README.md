@@ -22,12 +22,13 @@ I love exploring and learning from various experiences. I am on the constant sea
 
 ### Web technologies
 
+- React.js
+- Node.js
 - JavaScript
 - TypeScript
-- React.js
 - HTML, CSS
 - SCSS
-- Node.js
+
 
 
 ### Application Development
@@ -40,7 +41,7 @@ I love exploring and learning from various experiences. I am on the constant sea
 | Language      |
 | ------------- |
 | English       |
-| German        |
-| Czech         |
+| Hindi         |
+| Gujarati      |
 
 </details>
