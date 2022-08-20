@@ -11,8 +11,9 @@ I mainly code in Javascript, in 2021 I was introducted to React and I fell the i
 
 <details>
 
+## More stuff about me  
 <summary>
-  # More stuff about me
+  Click here
 </summary>
 
 ### What I do
