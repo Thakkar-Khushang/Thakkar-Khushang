@@ -10,8 +10,9 @@ I mainly code in Javascript, in 2021 I was introducted to React and I fell the i
 </a>  
 
 <details>
+
 <summary>
-  More stuff about me
+  # More stuff about me
 </summary>
 
 ### What I do
