@@ -9,9 +9,8 @@ I mainly code in Javascript, in 2021 I was introducted to React and I fell the i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thakkar-Khushang&count_private=true&show_icons=true&theme=dracula" alt="My github stats" />
 </a>  
 
-<details>
-
 ## More stuff about me  
+<details>
 <summary>
   Click here
 </summary>
