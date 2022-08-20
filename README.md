@@ -5,8 +5,8 @@ I mainly code in Javascript, in 2021 I was introducted to React and I fell the i
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thakkar-Khushang&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=Thakkar-Khushang&count_private=true&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thakkar-Khushang&count_private=true&show_icons=true&theme=dracula" alt="My github stats" />
 </a>  
 
 <details>
